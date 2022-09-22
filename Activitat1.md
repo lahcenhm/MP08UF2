@@ -36,3 +36,35 @@
 4. Després ja podem modificar els permisos que vulguem. N’hi ha per només veure, només comentar, i editar totalment.
 
 [![N|Solid](4.png)](https://nodesource.com/products/nsolid)
+
+### Guia d’instal·lació d’adreces directes als escriptoris dels dos tipus d’usuaris: Administrador/a i usuari/a.
+#### Administradors en ubuntu:
+
+1. Hem d’anar a les paràmetres de ubuntu.
+
+[![N|Solid](5.png)](https://nodesource.com/products/nsolid)
+
+2. Buscarem comptes en línia.
+
+[![N|Solid](6.png)](https://nodesource.com/products/nsolid)
+
+3. Afegirem un nou compte de Google.
+
+[![N|Solid](7.png)](https://nodesource.com/products/nsolid)
+
+4. Iniciem la sessió i confirmem els permisos que vol GNOME.
+
+[![N|Solid](8.png)](https://nodesource.com/products/nsolid)
+
+5. Acceptarem els permisos que necessita, per tant li donarem a aprovar.
+
+[![N|Solid](9.png)](https://nodesource.com/products/nsolid)
+
+6. Després hem d’activar només la sincronització de només Fotos i Arxius.
+
+[![N|Solid](100.png)](https://nodesource.com/products/nsolid)
+
+7. Veurem ara en el nostre explorador d’arxius en Ubuntu que ens apareixerà el nostre Drive online.
+
+[![N|Solid](10.png)](https://nodesource.com/products/nsolid) [![N|Solid](11.png)](https://nodesource.com/products/nsolid)
+
