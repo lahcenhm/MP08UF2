@@ -82,7 +82,7 @@
 
 1. A l’apartat del explorador d’arxius, on apareix el nostre correu, primer entrarem dins, després anirem a la meva unitat
 
-[![N|Solid](20.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](54.png)](https://nodesource.com/products/nsolid)
 
 2. Crearem carpetes noves. Una per BACKUP i altra per Documents
 
