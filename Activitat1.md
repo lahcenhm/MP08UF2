@@ -21,13 +21,18 @@
 - VPN per iOS i Android
 
 ### Guia de creació de les unitats compartides BACKUP i DOCUMENTS on es vegin els permisos assignats a cada tipus d’usuari/a.
-1. Mun anem al Google Drive i crearem una carpeta nova
+1. Mun anem al Google Drive i crearem una carpeta nova.
 
 [![N|Solid](1.png)](https://nodesource.com/products/nsolid)
 
-2. Tornem al lloc on hem creat aquesta carpeta i li donarem click dret i triar l'opció de compartir
+2. Tornem al lloc on hem creat aquesta carpeta i li donarem click dret i triar l'opció de compartir.
 
 [![N|Solid](2.png)](https://nodesource.com/products/nsolid)
 
-4. Afegirem organització o usuaris específics a l’apartat d’escriure. Una vegada hem acabat, fem a FET, i ja es compartiría amb el usuari que hem posat
+3. Afegirem organització o usuaris específics a l’apartat d’escriure. Una vegada hem acabat, fem a FET, i ja es compartiría amb el usuari que hem posat.
 
+[![N|Solid](3.png)](https://nodesource.com/products/nsolid)
+
+4. Després ja podem modificar els permisos que vulguem. N’hi ha per només veure, només comentar, i editar totalment.
+
+[![N|Solid](4.png)](https://nodesource.com/products/nsolid)
