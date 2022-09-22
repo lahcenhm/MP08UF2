@@ -68,3 +68,16 @@
 
 [![N|Solid](10.png)](https://nodesource.com/products/nsolid) [![N|Solid](11.png)](https://nodesource.com/products/nsolid)
 
+### Exemples d’ús de consultar un document per part de l’usuari/a.
+
+1. Ells obriran un enllaç que hem compartit, pero amb els permisos restringits. Com aquest per exemple: https://docs.google.com/document/d/1X_AmoKzm1uuQ7rGl6FoVQCxfseTu3BcZWCym-KcBeSk/edit?usp=sharing
+
+2. Els apareixerà una pantalla per enviar una sol·licitud per a que l’admin li donigue accés al document i poden afegir un motiu. Una vegada ja estem, li donem a request access.
+
+[![N|Solid](12.png)](https://nodesource.com/products/nsolid)
+
+3. Una vegada l’admin aprova la solicitud, l‘usuari pot accedir.
+
+### Comproveu si un usuari/a pot eliminar sense voler algun document.
+
+L’usuari no podrà eliminar cap arxiu de manera erronea o vulguen. 
