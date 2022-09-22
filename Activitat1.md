@@ -78,6 +78,24 @@
 
 3. Una vegada l’admin aprova la solicitud, l‘usuari pot accedir.
 
+### Exemples d’ús de fer un backup per part de l’administrador/a.
+
+1. A l’apartat del explorador d’arxius, on apareix el nostre correu, primer entrarem dins, després anirem a la meva unitat
+
+[![N|Solid](20.png)](https://nodesource.com/products/nsolid)
+
+2. Crearem carpetes noves. Una per BACKUP i altra per Documents
+
+[![N|Solid](21.png)](https://nodesource.com/products/nsolid)
+
+3. Una vegada ja els tenim, els mourem als favorits de la barra del explorador d’arxius.
+
+[![N|Solid](22.png)](https://nodesource.com/products/nsolid)
+
+4. Ja tindrem un accés directe i més ràpid per fer les còpies de seguretat
+
+[![N|Solid](23.png)](https://nodesource.com/products/nsolid)
+
 ### Comproveu si un usuari/a pot eliminar sense voler algun document.
 
 L’usuari no podrà eliminar cap arxiu de manera erronea o vulguen. 
