@@ -1,4 +1,4 @@
-# CAS PRÀCTIC 1 | Google Drive
+
 ## Índex de continguts
 - Perquè penseu que aquesta és una bona solució al nostre problema
 - El pressupost mensual i anual de la despesa del servei a contractar
