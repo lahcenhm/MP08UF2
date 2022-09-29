@@ -49,40 +49,36 @@ sudo systemctl restart mariadb.service
 ![](fotos/restart_mariaDB.png)
 
 ### Creació de la base de dades de ownCloud
-1. Entrarem a MariaDB
+Entrarem a MariaDB
 ```sh
 sudo systemctl restart mariadb.service
 ```
 
 ![](fotos/accedir_mariaDB.png)
 
-2. Crearem la base de dades
+Crearem la base de dades
 ```sh
 CREATE DATABASE owncloud;
 ```
-
 ![](fotos/Creem_la_basededades.png)
 
-3. Crearem el nostre usuari amb una contrasenya, en el meu cas li he posat admin a les dues.
+Crearem el nostre usuari amb una contrasenya, en el meu cas li he posat admin a les dues.
 ```sh
 CREATE USER 'usuari'@'localhost' IDENTIFIED BY 'contrasenya';
-```
-
+``
 ![](fotos/creació_usuari.png)
 
-4. Donarem accés a l'usuari a la base de dades que acabem de crear.
+Donarem accés a l'usuari a la base de dades que acabem de crear.
 ```sh
 GRANT ALL ON owncloud.* TO 'usuari'@'localhost' IDENTIFIED BY 'contrasenya' WITH GRANT OPTION;
 ```
-
 ![](fotos/Donem_acces_al_usuari.png)
 
-5. Apliquem els canvis i sortim.
+Apliquem els canvis i sortim.
 ```sh
 FLUSH PRIVILEGES;
 EXIT;
 ```
-
 ![](fotos/apliquem_canvis.png)
 
 ### Instal·lar PHP i els seus mòduls necessaris
